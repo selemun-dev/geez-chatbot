@@ -36,8 +36,8 @@ Geez_chat_bot_project/
 🧠 Model Overview
 -----------------
 • Base Model: google/mt5-small  
-• Pretraining: Custom datasets (translations + QA)  
-• Fine-Tuning: Focused on QA task using Geez-specific question-answer pairs  
+• Pretraining: Custom datasets (translations + QA) about 6000 datasets combination 
+• Fine-Tuning: Focused on QA task using Geez-specific question-answer pairs (finetune on 500 geez to geez conversational datasets) 
 
 📊 Datasets
 -----------
@@ -61,11 +61,11 @@ Geez_chat_bot_project/
 🚀 How to Run
 -------------
 1. Clone the repository:
-    git clone https://github.com/your-username/Geez_chat_bot_project.git  
-    cd Geez_chat_bot_project
+    git clone https://github.com/selemun-dev/Geez_chatbot.git  
+    cd Geez_chatbot
 
-2. Launch the Jupyter Notebook:
-    jupyter notebook Geez_chat_bot.ipynb
+2. Launch the google colab or Jupyter Notebook:
+    jupyter notebook Geez_chatbot.ipynb
 
 3. Train the model or test on custom input.
 
