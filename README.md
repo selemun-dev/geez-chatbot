@@ -28,10 +28,13 @@ Geez_chat_bot_project/
 
 🔧 Technologies Used
 --------------------
+•PyTorch (v1.13.1) - Deep learning framework with CUDA support
+•Transformers (v4.52.4) - Hugging Face library for pre-trained models
+•PEFT (Parameter-Efficient Fine-Tuning) - For efficient model adaptation
+•Accelerate - For distributed training and performance optimization
 • Python 3.10+  
 • HuggingFace Transformers  
 • HuggingFace Datasets  
-• PyTorch  
 • Google Colab / Jupyter Notebook  
 • BLEU & ROUGE for evaluation  
 
