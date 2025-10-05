@@ -1,4 +1,4 @@
-Geez Chatbot Project
+Geez Chatbot Project  NB: any one can see its contents by downloading the folder and open using visual studio or google colab.
 ====================
 
 This repository contains the implementation of an intelligent Geez chatbot designed to understand and respond to user inputs in the Geez script, an ancient Ethiopic language. The project aims to support low-resource language processing using the mT5 transformer model, enhancing conversational AI for underrepresented languages like Geez, Tigrigna, and Amharic.
